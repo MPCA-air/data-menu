@@ -12,9 +12,11 @@ two-line {
 }
 
 .title {
-  font-size: 50px !important;
-  margin-top: 22px;
-  margin-bottom: 70px;
+  font-size: 28px !important;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 28px;
+  margin-left: 10px;
 }
 
 .row3
@@ -249,4 +251,5 @@ h3 {
 
 body {
   font-size: 20px;
+  background-color: rgba(245,245,245,.85);
 }
