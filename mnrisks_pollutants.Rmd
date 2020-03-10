@@ -1,0 +1,83 @@
+---
+title: "Air data and tools"
+output: 
+  html_document:
+    theme: readable
+    highlight: tango
+    css: css/camp_style.css
+    self_contained: true
+---
+
+<head>
+    <base target="_blank">
+</head>
+
+<div class="row3" style = "margin-top: 20px;">
+
+<div class="column3">
+<img src="https://www.pca.state.mn.us/sites/default/files/aqi-icon-airdata.png" width="32%"  />
+<span> 
+
+**Monitoring**
+
+</span>
+
+<div style="text-align: left; font-size: 18px;">
+<span>
+Statewide
+
+- [Air data explorer](https://www.pca.state.mn.us/air/air-toxics-data-explorer)
+- [Today's air quality](https://www.pca.state.mn.us/air/current-air-quality)
+- [Monitor locations](https://www.pca.state.mn.us/air/minnesota-air-monitoring-sites)
+
+Local projects
+
+- [Water Gremlin](https://www.pca.state.mn.us/air/water-gremlin-data-explorer)
+- [North Minneapolis](https://www.pca.state.mn.us/air/north-minneapolis-air-monitoring-results)
+- [PAHs](https://www.pca.state.mn.us/air/air-monitoring-polycyclic-aromatic-hydrocarbons-pahs)
+
+</span>
+</div></div>
+
+<div class="column3">
+<img src="https://www.pca.state.mn.us/sites/default/files/permitted-facility-emissions-icon-airdata.png" width="32%" />
+<span>
+
+**Emissions**
+
+<div style="text-align: left; font-size: 18px;">
+Reported 
+
+- [Greenhouse gasses](https://www.pca.state.mn.us/air/greenhouse-gas-emissions-data)
+- [Emissions report](https://www.pca.state.mn.us/air/permitted-facility-air-emissions-data)
+- [Source locations](https://public.tableau.com/shared/G2DW548NP?:display_count=y&:origin=viz_share_link&:embed=y&:showVizHome=no)
+
+Permitted
+
+- [Permit applications](https://www.pca.state.mn.us/air/air-permit-applications-minnesota)
+
+</span>
+</div></div> 
+
+<div class="column3">
+<img src="https://www.pca.state.mn.us/sites/default/files/mnrisks-icon-airdata.png" width="32%" />
+<span>
+
+**Modeling & Health**
+
+<div style="text-align: left; font-size: 18px;">
+MNRISKS
+
+- [**Pollutant impacts**]
+- [Source contributions](https://www.pca.state.mn.us/air/mnrisks-source-priorities)
+
+Health outcomes
+
+- [Public Health data](https://data.web.health.state.mn.us/web/mndata/#menu2)
+
+
+</span>
+</div></div>
+
+</div>
+
