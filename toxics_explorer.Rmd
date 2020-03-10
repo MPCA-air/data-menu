@@ -49,7 +49,7 @@ Local projects
 Reported 
 
 - [Greenhouse gasses](https://www.pca.state.mn.us/air/greenhouse-gas-emissions-data)
-- [Emissions report](https://www.pca.state.mn.us/air/permitted-facility-air-emissions-data)
+- [Industry report](https://www.pca.state.mn.us/air/permitted-facility-air-emissions-data)
 - [Source locations](https://public.tableau.com/shared/G2DW548NP?:display_count=y&:origin=viz_share_link&:embed=y&:showVizHome=no)
 
 Permitted
