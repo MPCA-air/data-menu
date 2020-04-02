@@ -79,7 +79,7 @@ and Health
 
 Risk estimates
 
-- < **Pollutant impacts** >
+- **Pollutant rankings**
 - [Source contributions](https://www.pca.state.mn.us/air/mnrisks-source-priorities)
 
 Health outcomes
