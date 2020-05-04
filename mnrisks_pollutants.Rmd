@@ -81,10 +81,12 @@ Risk estimates
 
 - **Pollutant rankings**
 - [Source contributions](https://www.pca.state.mn.us/air/mnrisks-source-priorities)
+- [Air toxics in MN](https://www.pca.state.mn.us/air/air-toxics-minnesota)
+
 
 Health outcomes
 
-- [Public Health data](https://data.web.health.state.mn.us/web/mndata/#menu2)
+- [Public health data](https://data.web.health.state.mn.us/web/mndata/#menu2)
 
 
 </div></div>
